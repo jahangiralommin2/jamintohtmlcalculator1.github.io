@@ -1,1 +1,1 @@
-# jamintohtmlcalculator1.github.io
+Sample html and css calcultor for practice.
